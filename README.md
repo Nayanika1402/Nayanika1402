@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/0k6meqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Nayanika Mukherjee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer and ML enthusiast from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanika1402&label=Profile%20views&color=0e75b6&style=flat" alt="nayanika1402" /> </p>
