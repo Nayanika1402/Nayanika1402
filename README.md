@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanika1402&label=Profile%20views&color=0e75b6&style=flat" alt="nayanika1402" /> </p>
 
-- 🔭 I’m currently working on **Capstone Project**
+- 🔭 I’m currently exploring **Open Source Development.**
 
-- 🌱 I’m currently learning **BackEnd Web Development and Databases**
+- 🌱 I’m currently learning **BackEnd Web Development and Databases.**
 
 - 💬 Ask me about **ReactJS,Java etc.**
 
